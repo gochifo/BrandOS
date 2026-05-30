@@ -1,0 +1,10 @@
+26-B1/bios.lua
+26-B1/gub.lua
+26-B1/Icons/logo.nfp
+26-B1/Main.lua
+26-B1/Programs/About.lua
+26-B1/Programs/EmuBrand.lua
+26-B1/Programs/LookerEdit.lua
+26-B1/Programs/LookerOpen.lua
+26-B1/Programs/TextBrand.lua
+26-B1/version.txt
