@@ -1,4 +1,3 @@
-:::writing{variant=“document” id=“64218”}
 BRANDOS
 
 SOURCE AVAILABLE OPERATING SYSTEM
